@@ -3,7 +3,7 @@
 *.lo
 *.o
 *.obj
-
+HelloWorld
 # Precompiled Headers
 *.gch
 *.pch
